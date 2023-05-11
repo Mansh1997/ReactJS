@@ -2,7 +2,7 @@ import {useState} from 'react'
 
 import profile from '../assets/profile.svg';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faCircleArrowRight, } from "@fortawesome/free-solid-svg-icons";
+// import {faCircleArrowRight, } from "@fortawesome/free-solid-svg-icons";
 import {  faGithub, faInstagram, faLinkedinIn } from "@fortawesome/free-brands-svg-icons";
 import hr from '../assets/curve-hr.svg'
 

@@ -40,7 +40,7 @@ export default function Hiro () {
                         <a href='https://instagram.com/god_ofheart' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faInstagram} /></a>
                     </li>
                     <li>
-                        <a href='htps://linkedin.com/in/manish-singhal-093637231' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
+                        <a href='https://www.linkedin.com/in/manish-singhal-093637231/' rel="noreferrer" target="_blank"><FontAwesomeIcon size='2xl' icon={faLinkedinIn} /></a>
                     </li>
                 </ul>
             </div>

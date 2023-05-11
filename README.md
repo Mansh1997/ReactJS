@@ -2,3 +2,4 @@
 This project is one of the results of my journey learning frontend with react.
 
 # Preview
+https://genuine-crostata-a75907.netlify.app

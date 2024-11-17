@@ -1,6 +1,5 @@
-
-
-import hr from "../assets/curve-hr.svg"
+import CertCard from "../components/CertCard"
+import hr from "../assets/certs/Certificate1.jpg"
 
 
 // import 
@@ -11,10 +10,9 @@ export default function Certs(){
             <h1 className="text-2xl font-bold">Certifications</h1>
             <p className="font-light text-gray-400">Here are some of my Certifications</p>
 
-            {/* <div className="flex flex-col md:flex-row flex-wrap mt-4 gap-5"> */}
-            <div className="grid grid-cols-1 md:grid-cols-3 justify-center mt-4 gap-5">
-            </div>
-            <img src={hr} className="w-full mt-8 md:h-2" alt="hr" />
+            <div className="flex flex-col md:flex-row flex-wrap mt-4 gap-5">
+            <CertCard name="Full Stack Development" issued="Board Infinity" desc= "BI-2011115431543" date="05-06-2023" img={hr}/>
+        </div>
         </div>
     )
 }

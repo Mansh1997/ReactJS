@@ -5,7 +5,7 @@ import SkillCard from "./SkillCard.js"
 
 import javascript from "../assets/skills/javascript.svg"
 // import bash from "../assets/skills/bash.svg"
-// import kvm from "../assets/skills/kvm.svg"
+import NodeJs from "../assets/skills/nodejs.svg"
 import linux from "../assets/skills/linux.svg"
 // import python from "../assets/skills/python.svg"
 import reactIcon from "../assets/skills/react.svg"
@@ -45,7 +45,7 @@ export default function Skills() {
                 <SkillCard name="javascript" experience="1 years" img={javascript} />
                 <SkillCard name="react" experience="1 years" img={reactIcon} />
                 <SkillCard name="tailwind" experience="1 years" img={tailwind} />
-                {/* <SkillCard name="kvm" experience="1 years" img={kvm} /> */}
+                <SkillCard name="NodeJs" experience="1 years" img={NodeJs} />
                 {/* <SkillCard name="mikrotik" experience="1 years" img={mikrotik} />
                 <SkillCard name="kubernetes" experience="1 years" img={kubernetes} />
                 <SkillCard name="ansible" experience="1 years" img={ansible} /> */}
